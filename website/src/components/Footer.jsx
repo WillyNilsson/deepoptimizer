@@ -35,7 +35,7 @@ const Footer = () => {
               <FiGithub size={20} />
             </motion.a>
             <motion.a
-              href="https://twitter.com/willynilsson"
+              href="https://x.com/WillyNilssonAI"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
@@ -46,7 +46,7 @@ const Footer = () => {
               <FiTwitter size={20} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/willynilsson"
+              href="https://www.linkedin.com/in/willy-nilsson-243680252/?locale=en_US"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1 }}
@@ -57,7 +57,7 @@ const Footer = () => {
               <FiLinkedin size={20} />
             </motion.a>
             <motion.a
-              href="mailto:hello@deepoptimizer.ai"
+              href="mailto:inquiries@willynilsson.com"
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
               className="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400"

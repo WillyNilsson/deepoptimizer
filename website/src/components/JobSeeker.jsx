@@ -117,7 +117,7 @@ const JobSeeker = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <motion.a
-              href="https://linkedin.com/in/willynilsson"
+              href="https://www.linkedin.com/in/willy-nilsson-243680252/?locale=en_US"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
@@ -127,7 +127,7 @@ const JobSeeker = () => {
               Connect on LinkedIn
             </motion.a>
             <motion.a
-              href="mailto:hello@deepoptimizer.ai"
+              href="mailto:inquiries@willynilsson.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="button-secondary"

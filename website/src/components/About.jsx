@@ -10,8 +10,8 @@ const About = () => {
       image: 'https://api.dicebear.com/7.x/avataaars/svg?seed=Willy',
       links: {
         github: 'https://github.com/willynilsson',
-        twitter: 'https://twitter.com/willynilsson',
-        linkedin: 'https://linkedin.com/in/willynilsson',
+        twitter: 'https://x.com/WillyNilssonAI',
+        linkedin: 'https://www.linkedin.com/in/willy-nilsson-243680252/?locale=en_US',
       },
     },
   ];
@@ -159,7 +159,7 @@ const About = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <motion.a
-                href="https://linkedin.com/in/willynilsson"
+                href="https://www.linkedin.com/in/willy-nilsson-243680252/?locale=en_US"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
