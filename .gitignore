@@ -109,6 +109,9 @@ celerybeat.pid
 # Claude Code config
 CLAUDE.md
 
+# Social media drafts
+socials/
+
 # Environments
 .env
 .venv
