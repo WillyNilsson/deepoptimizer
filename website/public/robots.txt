@@ -1,0 +1,8 @@
+# DeepOptimizer robots.txt
+# Allow all crawlers
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://willynilsson.github.io/deepoptimizer/sitemap.xml

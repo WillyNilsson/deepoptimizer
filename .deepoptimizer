@@ -1,0 +1,26 @@
+# DeepOptimizer Configuration
+
+# Gemini API Key (or set GEMINI_API_KEY environment variable)
+# api_key = your-api-key-here
+
+# Default analysis options
+[analysis]
+# Include LLM analysis by default
+use_llm = true
+
+# Output format (rich, simple, json, markdown)
+output_format = rich
+
+# File patterns to include
+include_patterns = ["**/*.py"]
+
+# File patterns to exclude
+exclude_patterns = ["**/venv/**", "**/__pycache__/**", "**/test_*.py"]
+
+# Severity filter (all, error, warning, info)
+severity_filter = all
+
+[performance]
+# Maximum workers for parallel analysis
+max_workers = 4
+

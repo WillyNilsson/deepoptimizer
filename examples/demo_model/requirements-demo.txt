@@ -1,0 +1,6 @@
+# Demo model dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Note: This is just for the demo model file.
+# To use DeepOptimizer, install: pip install deepoptimizer

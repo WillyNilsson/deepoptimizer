@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script>
+      // Handle client-side routing for GitHub Pages
+      const path = window.location.pathname;
+      const base = '/deepoptimizer';
+      
+      // If we're not already under /deepoptimizer, redirect there
+      if (!path.startsWith(base)) {
+        window.location.href = base + path;
+      }
+    </script>
+    <title>Page Not Found - DeepOptimizer</title>
+</head>
+<body>
+    <p>Redirecting to DeepOptimizer...</p>
+</body>
+</html>

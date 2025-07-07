@@ -1,0 +1,19 @@
+OG IMAGE PLACEHOLDER
+====================
+
+Create a 1200x630px image named "og-image.png" in this directory.
+
+Design suggestions:
+- Dark background (#111827) to match site theme
+- DeepOptimizer logo/text prominently displayed
+- "Pre-flight Checks for ML Code" tagline
+- Aviation checklist visual elements
+- Professional, clean design
+
+Tools to create:
+- Figma
+- Canva
+- Adobe Creative Suite
+- Or any image editor
+
+Once created, delete this placeholder file.
