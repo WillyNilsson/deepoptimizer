@@ -161,8 +161,6 @@ This license provides patent protection and ensures proper attribution while rem
 
 Built by [Willy Nilsson](https://willynilsson.com). The concept was inspired by aviation psychology - how pilots use checklists to manage complex systems safely. My background in psychology and programming led to applying these principles to ML development.
 
-Currently seeking opportunities in AI/ML tooling development.
-
 - Personal Site: [willynilsson.com](https://willynilsson.com)
 - GitHub: [@willynilsson](https://github.com/willynilsson)
 - LinkedIn: [linkedin.com/in/willynilsson](https://linkedin.com/in/willynilsson)
